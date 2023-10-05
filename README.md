@@ -3,7 +3,7 @@ AptosTodoList Dapp, created using [Aptos Documentation](https://aptos.dev/tutori
 
 ## How To Use the Dapp
 1. Connect Your Petra Wallet using `Connect Wallet` Button and Approve.
-![Home Page](./img/1_home.png)
+![Home Page](img/1_home.png)
 
 2. Click on `Add new list` Button to create a new list for your account. Approve..
 ![Wallet Connected](./img/2_wallet_connected.png)
@@ -16,3 +16,5 @@ AptosTodoList Dapp, created using [Aptos Documentation](https://aptos.dev/tutori
 
 5. Click on the checkbox to mark as completed, approve, and done.
 ![Marked Task Completed](./img/6_marked_task_completed.png)
+
+> Images are available in ./Img
